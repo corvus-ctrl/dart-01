@@ -1,2 +1,2 @@
-#### Portafolio misc
-Portafolio de proyectos y material didáctico.
+#### Conceptos de Dart
+Material de aprendizaje de los conceptos del lenguaje de programación Dart
